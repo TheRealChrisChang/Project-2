@@ -41,18 +41,18 @@ div img
     max-height: 270px;
     overflow: hidden;
 
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-height 0.7s;
+    -webkit-transition: max-height 2.5s;
+    -moz-transition: max-height 2.5;
+    transition: max-height 2.5s;
 }
 /* creates the full box preview after user clicks the show more */
 #ghost.open
 {
     max-height: 320vh;
 
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-height 0.7s;
+    -webkit-transition: max-height 2.5;
+    -moz-transition: max-height 2.5s;
+    transition: max-height 2.5;
 }
 
 #show-more-ghost
