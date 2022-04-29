@@ -48,7 +48,7 @@ div img
 /* creates the full box preview after user clicks the show more */
 #ghost.open
 {
-    max-height: 300vh;
+    max-height: 320vh;
 
     -webkit-transition: max-height 0.7s;
     -moz-transition: max-height 0.7s;
